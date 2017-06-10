@@ -15,7 +15,7 @@ the projects or resources from which I have personally benefited from:
 * [Konrad Sobon](https://github.com/ksobon/)
 
 
-Please Start an Issues or send a Pull Request to add additional links
+Please start an Issue or send a Pull Request to add additional links.
 
 ## Revit-Python Projects
 
