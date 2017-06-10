@@ -109,6 +109,9 @@ Please start an Issue or send a Pull Request to add additional links.
 #### [IronPythonDocs](http://ironpython.net/documentation/)
 > Oficial IronPython Documentation
 
+#### [IronPython Episode](https://talkpython.fm/episodes/show/74/past-present-and-future-of-ironpython)
+> Have you heard of IronPython and Jython? These two alternate implementations of Python were created by Jim hugunin. They run on top of the .NET and JVM runtimes. On this episode going to look at the story of IronPython. It's been around for many years. Although the last few years, it's been somewhat stagnant. That's why I am thrilled to introduce you to Alex Earl, who along with Benedikt Eggers, has become the maintainer of the IronPython project. It's great to see IronPython getting the attention it deserves. We'll talk about IronPython past, present, future on this episode of Talk Python To Me. 
+
 ### IronPython + WPF
 > Windows Presentation Foundation Resources focused on IronPython
 
