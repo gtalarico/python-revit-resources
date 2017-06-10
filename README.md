@@ -2,54 +2,6 @@
 
 Please Start an Issues or send a Pull Request to add additional links
 
-## Communities
-
-[Revit API Forum](http://forums.autodesk.com/t5/revit-api/bd-p/160)
-
-[Revit API Docs](http://www.revitapidocs.com)
-
-[Dynamo Forum](https://forum.dynamobim.com/)  
-
-[Stackoverflow: revit-api](http://stackoverflow.com/questions/tagged/revit-api/)  
-
-## Revit API Blogs
-
-[Building Coder Blog](http://thebuildingcoder.typepad.com/)
-
-[BoostYourBim](https://boostyourbim.wordpress.com/)
-
-[SpiderInNet](http://spiderinnet.typepad.com/)
-
-[Archi-lab.net](http://archi-lab.net/)
-
-[dp-stuff.org](http://dp-stuff.org/)
-
-[Nathan's Revit API Notebook](http://wiki.theprovingground.org/revit-api)  
-
-## Official Autodesk Resources
-
-[Autodesk Developer Network](http://usa.autodesk.com/adsk/servlet/index?siteID=123112&id=2484975)
-
-[2017: Developer's Guide](http://help.autodesk.com/view/RVT/2017/ENU/?guid=GUID-F0A122E0-E556-4D0D-9D0F-7E72A9315A42)  
-
-[2016: Developer's Guide](http://help.autodesk.com/view/RVT/2016/ENU/?guid=GUID-F0A122E0-E556-4D0D-9D0F-7E72A9315A42)  
-
-[2015: Developer's Guide](http://help.autodesk.com/view/RVT/2015/ENU/?guid=GUID-F0A122E0-E556-4D0D-9D0F-7E72A9315A42)  
-
-[2014: Developer's Guide](http://help.autodesk.com/view/RVT/2014/ENU/?guid=GUID-F0A122E0-E556-4D0D-9D0F-7E72A9315A42)  
-
-[Dynamo Primer - Python](http://dynamoprimer.com/09_Custom-Nodes/9-4_Python.html)
-
-
-## Tutorials / Reference Guides
-
-[Begginers Guide to Python In Autodesk Revit](https://www.gitbook.com/book/gtalarico/pythonforrevit/edit#)  
-
-[Dynamo Primer \(Python\)](http://dynamoprimer.com/en/09_Custom-Nodes/9-4_Python.html)  
-
-[Scripting Autodesk Revit with RevitPythonShell](https://daren-thomas.gitbooks.io/scripting-autodesk-revit-with-revitpythonshell/content/)  
-
-
 ## Revit-Python Projects
 
 ### Revit
@@ -75,6 +27,44 @@ Please Start an Issues or send a Pull Request to add additional links
 [Rhynamo](https://bitbucket.org/archinate/rhynamo)
 
 [MantisShrimp](https://github.com/ksobon/MantisShrimp)
+
+## Communities
+
+[Revit API Forum](http://forums.autodesk.com/t5/revit-api/bd-p/160)
+
+[Revit API Docs](http://www.revitapidocs.com)
+
+[Dynamo Forum](https://forum.dynamobim.com/)  
+
+[Stackoverflow: revit-api](http://stackoverflow.com/questions/tagged/revit-api/)  
+
+## Revit API Blogs
+
+[Building Coder Blog](http://thebuildingcoder.typepad.com/)
+
+[BoostYourBim](https://boostyourbim.wordpress.com/)
+
+[SpiderInNet](http://spiderinnet.typepad.com/)
+
+[Archi-lab.net](http://archi-lab.net/)
+
+[dp-stuff.org](http://dp-stuff.org/)
+
+[Nathan's Revit API Notebook](http://wiki.theprovingground.org/revit-api)  
+
+## Tutorials / Reference Guides
+
+[Begginers Guide to Python In Autodesk Revit](https://www.gitbook.com/book/gtalarico/pythonforrevit/edit#)  
+
+[Dynamo Primer \(Python\)](http://dynamoprimer.com/en/09_Custom-Nodes/9-4_Python.html)  
+
+[Scripting Autodesk Revit with RevitPythonShell](https://daren-thomas.gitbooks.io/scripting-autodesk-revit-with-revitpythonshell/content/)  
+
+## Official Autodesk Resources
+
+[Autodesk Developer Network](http://usa.autodesk.com/adsk/servlet/index?siteID=123112&id=2484975)
+
+[2017: Developer's Guide](http://help.autodesk.com/view/RVT/2017/ENU/?guid=GUID-F0A122E0-E556-4D0D-9D0F-7E72A9315A42)  
 
 ## Python Documents and Guides
 
