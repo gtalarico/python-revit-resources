@@ -1,4 +1,18 @@
-# Revit-Python Resources
+# Python-Revit-Resources
+
+This is a list of resources relevant to the brave people that insist in using
+Python for Revit.
+
+A special thanks to some of the earlier explorers who create the earlier or
+well known resources from which many of the other projects are built on.
+
+* [Daren Thomas](https://github.com/architecture-building-systems)
+* [Nathan Miller](https://provingground.io/)
+* [Mostapha Roudsari](https://github.com/mostaphaRoudsari/ladybug)
+* [Andreas Dieckmann](https://github.com/andydandy74/)
+* [Ehsan Iran Nejad](https://github.com/eirannejad)
+* [Dimitar Venkov](https://github.com/dimven/)
+
 
 Please Start an Issues or send a Pull Request to add additional links
 
@@ -17,6 +31,9 @@ Please Start an Issues or send a Pull Request to add additional links
 [rvt_model_services](https://github.com/hdm-dt-fb/rvt_model_services)
 
 [Ironic Python Helper](https://github.com/PMoureu/iph)
+
+[dyfpy](https://github.com/mostaphaRoudsari/dyfpy)
+Python library to automate creating DynamoBIM custom nodes.
 
 ### Dynamo Packages
 
