@@ -77,7 +77,9 @@
 ## Python Documents and Guides
 
 [Python Docs](https://docs.python.org/2/) \(2.7\)
+
 [CodeAcademy](https://www.codecademy.com/learn/python)
+
 [LearnPythonTheHardWay](https://learnpythonthehardway.org/book/)
 
 ## IronPython Documentation
