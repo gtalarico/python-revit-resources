@@ -21,33 +21,39 @@ Please Start an Issues or send a Pull Request to add additional links
 
 ### Revit
 
-[RevitPythonShell](https://github.com/architecture-building-systems/revitpythonshell)
+#### [RevitPythonShell](https://github.com/architecture-building-systems/revitpythonshell)
+> An IronPython scripting environment for Autodesk Revit
 
-[pyRevit](https://github.com/eirannejad/pyRevit)
+#### [pyRevit](https://github.com/eirannejad/pyRevit)
+> IronPython scripts and add-in tab for Autodesk Revit®
 
 ### Libraries / Helpers
 
-[revitpythonwrapper](https://github.com/gtalarico/revitpythonwrapper)
+#### [revitpythonwrapper](https://github.com/gtalarico/revitpythonwrapper)
+> A Revit API Wrapper to help Python programmers write more pythonic Revit API code.
 
-[rvt_model_services](https://github.com/hdm-dt-fb/rvt_model_services)
+#### [rvt_model_services](https://github.com/hdm-dt-fb/rvt_model_services)
+> Python tools to process actions on revit models from cli
 
-[Ironic Python Helper](https://github.com/PMoureu/iph)
+#### [Ironic Python Helper](https://github.com/PMoureu/iph)
+> Half lookup, half doc reader, half visual debugger, these 3 halves are helpfull when you're dealing with huge .NET frameworks or Python modules.
 
-[dyfpy](https://github.com/mostaphaRoudsari/dyfpy)
-
-Python library to automate creating DynamoBIM custom nodes.
+#### [dyfpy](https://github.com/mostaphaRoudsari/dyfpy)
+> Python library to automate creating DynamoBIM custom nodes.
 
 ### Dynamo Packages
 
-[Clockwork](https://github.com/andydandy74/ClockworkForDynamo)
+#### [Clockwork](https://github.com/andydandy74/ClockworkForDynamo)
+> A collection of [...] custom nodes for the Dynamo visual programming environment
 
-[SpringNodes](https://github.com/dimven/SpringNodes)
+#### [SpringNodes](https://github.com/dimven/SpringNodes)
+> A collection of Dynamo nodes
 
-[Rhynamo](https://bitbucket.org/archinate/rhynamo)
+#### [Rhynamo](https://bitbucket.org/archinate/rhynamo)
+> Rhynamo is an open source plug-in authored by Nathan Miller (Formally of CASE, now founder of Proving Ground). Rhynamo exposes new visual nodes for reading and writing Rhino 3dm files. These tools expose new workflow opportunities between common design and production environments used in architectural design. We want Rhynamo to be helpful to your workflow, boost your self-esteem, and make you look cool in social situations.
 
-[MantisShrimp](https://github.com/ksobon/MantisShrimp)
-
-A interop project for bridging the gap between Rhino/Grasshopper and Revit/Dynamo
+#### [MantisShrimp](https://github.com/ksobon/MantisShrimp)
+> A interop project for bridging the gap between Rhino/Grasshopper and Revit/Dynamo
 
 ## Communities
 
@@ -61,48 +67,53 @@ A interop project for bridging the gap between Rhino/Grasshopper and Revit/Dynam
 
 ## Revit API Blogs
 
-[Building Coder Blog](http://thebuildingcoder.typepad.com/)
+#### [Building Coder Blog](http://thebuildingcoder.typepad.com/)
 
-[BoostYourBim](https://boostyourbim.wordpress.com/)
+#### [BoostYourBim](https://boostyourbim.wordpress.com/)
 
-[SpiderInNet](http://spiderinnet.typepad.com/)
+#### [SpiderInNet](http://spiderinnet.typepad.com/)
 
-[Archi-lab.net](http://archi-lab.net/)
+#### [Archi-lab.net](http://archi-lab.net/)
 
-[dp-stuff.org](http://dp-stuff.org/)
+#### [dp-stuff.org](http://dp-stuff.org/)
 
-[Nathan's Revit API Notebook](http://wiki.theprovingground.org/revit-api)  
+#### [Nathan's Revit API Notebook](http://wiki.theprovingground.org/revit-api)  
 
 ## Tutorials / Reference Guides
 
-[Begginers Guide to Python In Autodesk Revit](https://www.gitbook.com/book/gtalarico/pythonforrevit/edit#)  
+#### [Begginers Guide to Python In Autodesk Revit](https://www.gitbook.com/book/gtalarico/pythonforrevit/edit#)  
 
-[Dynamo Primer \(Python\)](http://dynamoprimer.com/en/09_Custom-Nodes/9-4_Python.html)  
+#### [Dynamo Primer \(Python\)](http://dynamoprimer.com/en/09_Custom-Nodes/9-4_Python.html)  
 
-[Scripting Autodesk Revit with RevitPythonShell](https://daren-thomas.gitbooks.io/scripting-autodesk-revit-with-revitpythonshell/content/)  
+#### [Scripting Autodesk Revit with RevitPythonShell](https://daren-thomas.gitbooks.io/scripting-autodesk-revit-with-revitpythonshell/content/)  
 
 ## Official Autodesk Resources
 
-[Autodesk Developer Network](http://usa.autodesk.com/adsk/servlet/index?siteID=123112&id=2484975)
+#### [Autodesk Developer Network](http://usa.autodesk.com/adsk/servlet/index?siteID=123112&id=2484975)
 
-[2017: Developer's Guide](http://help.autodesk.com/view/RVT/2017/ENU/?guid=GUID-F0A122E0-E556-4D0D-9D0F-7E72A9315A42)  
+#### [2017: Developer's Guide](http://help.autodesk.com/view/RVT/2017/ENU/?guid=GUID-F0A122E0-E556-4D0D-9D0F-7E72A9315A42)  
 
 ## Python Documents and Guides
 
-[Python Docs](https://docs.python.org/2/) \(2.7\)
+#### [Python Docs](https://docs.python.org/2/) \(2.7\)
 
-[CodeAcademy](https://www.codecademy.com/learn/python)
+#### [CodeAcademy](https://www.codecademy.com/learn/python)
 
-[LearnPythonTheHardWay](https://learnpythonthehardway.org/book/)
+#### [LearnPythonTheHardWay](https://learnpythonthehardway.org/book/)
 
 ## IronPython Documentation
 
-[IronPythonDocs](http://ironpython.net/documentation/)
+#### [IronPythonDocs](http://ironpython.net/documentation/)
+> Oficial IronPython Documentation
 
 ### IronPython + WPF
+> Windows Presentation Foundation Resources focused on IronPython
 
-[IronPythonCookbook](http://www.ironpython.info/index.php?title=Main_Page)
+#### [IronPythonCookbook](http://www.ironpython.info/index.php?title=Main_Page)
+> Recipes and example code for IronPython
 
-[IronPythonCookbook-WPF](http://www.ironpython.info/index.php?title=WPF_Example)
+#### [IronPythonCookbook-WPF](http://www.ironpython.info/index.php?title=WPF_Example)
+> This is a simple introduction to Windows Presentation Foundation
 
-[SimpleWPFAppication](https://lifebeyondfife.com/79-ironpython-wpf-html/)
+
+#### [SimpleWPFAppication](https://lifebeyondfife.com/79-ironpython-wpf-html/)
