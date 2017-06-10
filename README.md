@@ -1,7 +1,7 @@
 # Python-Revit-Resources
 
 This is a list of resources relevant to the brave people that insist in using
-Python for Revit.
+Python for Revit instead of the more supported .NET languages.
 
 A special thanks to some of the earlier explorers who create some of
 the projects or resources from which I have personally benefited from:
