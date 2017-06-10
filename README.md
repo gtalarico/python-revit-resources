@@ -4,14 +4,15 @@ This is a list of resources relevant to the brave people that insist in using
 Python for Revit.
 
 A special thanks to some of the earlier explorers who create the earlier or
-well known resources from which many of the other projects are built on.
+well known Python projects or resources from which I have personally benefited from:
 
 * [Daren Thomas](https://github.com/architecture-building-systems)
 * [Nathan Miller](https://provingground.io/)
-* [Mostapha Roudsari](https://github.com/mostaphaRoudsari/ladybug)
+* [Mostapha Roudsari](https://github.com/mostaphaRoudsari)
 * [Andreas Dieckmann](https://github.com/andydandy74/)
 * [Ehsan Iran Nejad](https://github.com/eirannejad)
 * [Dimitar Venkov](https://github.com/dimven/)
+* [Konrad Sobon](https://github.com/ksobon/)
 
 
 Please Start an Issues or send a Pull Request to add additional links
@@ -33,6 +34,7 @@ Please Start an Issues or send a Pull Request to add additional links
 [Ironic Python Helper](https://github.com/PMoureu/iph)
 
 [dyfpy](https://github.com/mostaphaRoudsari/dyfpy)
+
 Python library to automate creating DynamoBIM custom nodes.
 
 ### Dynamo Packages
@@ -44,6 +46,8 @@ Python library to automate creating DynamoBIM custom nodes.
 [Rhynamo](https://bitbucket.org/archinate/rhynamo)
 
 [MantisShrimp](https://github.com/ksobon/MantisShrimp)
+
+A interop project for bridging the gap between Rhino/Grasshopper and Revit/Dynamo
 
 ## Communities
 
