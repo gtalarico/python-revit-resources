@@ -14,7 +14,7 @@
 
 [Building Coder Blog](http://thebuildingcoder.typepad.com/)
 
-[BoostYourBim](http://thebuildingcoder.typepad.com/)
+[BoostYourBim](https://boostyourbim.wordpress.com/)
 
 [SpiderInNet](http://spiderinnet.typepad.com/)
 
