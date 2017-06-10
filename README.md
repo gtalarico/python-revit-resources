@@ -3,8 +3,8 @@
 This is a list of resources relevant to the brave people that insist in using
 Python for Revit.
 
-A special thanks to some of the earlier explorers who create the earlier or
-well known Python projects or resources from which I have personally benefited from:
+A special thanks to some of the earlier explorers who create some of
+the projects or resources from which I have personally benefited from:
 
 * [Daren Thomas](https://github.com/architecture-building-systems)
 * [Nathan Miller](https://provingground.io/)
