@@ -1,5 +1,7 @@
 # Revit-Python Resources
 
+Please Start an Issues or send a Pull Request to add additional links
+
 ## Communities
 
 [Revit API Forum](http://forums.autodesk.com/t5/revit-api/bd-p/160)
