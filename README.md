@@ -1,10 +1,10 @@
 # Python-Revit-Resources
 
-This is a list of resources relevant to the brave people that insist in using
+This is a list of resources relevant to the brave people who insist in using
 Python for Revit instead of the more supported .NET languages.
 
-A special thanks to some of the earlier explorers who create some of
-the projects or resources from which I have personally benefited from:
+A special thanks to the earlier explorers who create some of
+the projects or resources I have personally benefited from:
 
 * [Daren Thomas](https://github.com/architecture-building-systems)
 * [Nathan Miller](https://provingground.io/)
@@ -17,12 +17,14 @@ the projects or resources from which I have personally benefited from:
 
 Please start an Issue or send a Pull Request to add additional links.
 
-## Revit-Python Projects
+## Revit-Python
 
-### Revit
+### Projects
 
 #### [RevitPythonShell](https://github.com/architecture-building-systems/revitpythonshell)
 > An IronPython scripting environment for Autodesk Revit
+
+#### [RevitPythonShell Gitbook](https://daren-thomas.gitbooks.io/scripting-autodesk-revit-with-revitpythonshell/content/)  
 
 #### [pyRevit](https://github.com/eirannejad/pyRevit)
 > IronPython scripts and add-in tab for Autodesk Revit®
@@ -41,6 +43,9 @@ Please start an Issue or send a Pull Request to add additional links.
 #### [dyfpy](https://github.com/mostaphaRoudsari/dyfpy)
 > Python library to automate creating DynamoBIM custom nodes.
 
+
+## Dynamo
+
 ### Dynamo-Python Packages
 
 #### [Clockwork](https://github.com/andydandy74/ClockworkForDynamo)
@@ -57,6 +62,16 @@ Please start an Issue or send a Pull Request to add additional links.
 
 #### [MantisShrimp](https://github.com/ksobon/MantisShrimp)
 > A interop project for bridging the gap between Rhino/Grasshopper and Revit/Dynamo
+
+### Dynamo-Python Resources
+
+#### [Dynamo Primer](http://dynamoprimer.com/en/)  
+
+#### [Dynamo Primer - Python](http://dynamoprimer.com/en/09_Custom-Nodes/9-4_Python.html)  
+
+#### [Danny Bentley Youtube](https://www.youtube.com/channel/UC1Dx-jGyRbvvHzZ8ZyGWF5w)
+> Youtube Channel with Revit API and Dynamo with C# and Python Videos
+
 
 ## Communities
 
@@ -81,14 +96,6 @@ Please start an Issue or send a Pull Request to add additional links.
 #### [dp-stuff.org](http://dp-stuff.org/)
 
 #### [Nathan's Revit API Notebook](http://wiki.theprovingground.org/revit-api)  
-
-## Tutorials / Reference Guides
-
-#### [Begginers Guide to Python In Autodesk Revit](https://www.gitbook.com/book/gtalarico/pythonforrevit/edit#)  
-
-#### [Dynamo Primer \(Python\)](http://dynamoprimer.com/en/09_Custom-Nodes/9-4_Python.html)  
-
-#### [Scripting Autodesk Revit with RevitPythonShell](https://daren-thomas.gitbooks.io/scripting-autodesk-revit-with-revitpythonshell/content/)  
 
 ## Official Autodesk Resources
 
