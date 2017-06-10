@@ -4,6 +4,8 @@
 
 [Revit API Forum](http://forums.autodesk.com/t5/revit-api/bd-p/160)
 
+[Revit API Docs](http://www.revitapidocs.com)
+
 [Dynamo Forum](https://forum.dynamobim.com/)  
 
 [Stackoverflow: revit-api](http://stackoverflow.com/questions/tagged/revit-api/)  
