@@ -130,5 +130,9 @@ Please start an Issue or send a Pull Request to add additional links.
 #### [IronPythonCookbook-WPF](http://www.ironpython.info/index.php?title=WPF_Example)
 > This is a simple introduction to Windows Presentation Foundation
 
+#### [Dark Corners Of Python](http://www.voidspace.org.uk/ironpython/dark-corners.shtml)
+> [...] Nitty gritty details of how to use Python the language to integrate with the underlying .NET framework
+
+
 
 #### [SimpleWPFAppication](https://lifebeyondfife.com/79-ironpython-wpf-html/)
